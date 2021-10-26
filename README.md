@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishna26khatri
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning C language.
+- 👀 I’m interested in Web developement.
+- 🌱 I’m currently learning Web developement.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
